@@ -1,0 +1,24 @@
+html, body {
+    margin: 0px;
+    background-color: #2f4f30;
+    color: aliceblue;
+}
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.cards {
+    width: 150px;
+    position: relative;
+    left: 100px;
+    margin-left: -60px;
+}
+
+#cpu-cards, #player-cards {
+    height: 240px;
+}
